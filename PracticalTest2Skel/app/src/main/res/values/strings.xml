@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticalTest2Skel</string>
+    <string name="server">Server</string>
+    <string name="server_port">Server Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">Client</string>
+    <string name="client_address">Client Address</string>
+    <string name="client_port">Client Port</string>
+    <string name="get_information">Get Infromation</string>
+    <string name="imageview">ImageView</string>
+    <string-array name="information_types">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>condition</item>
+        <item>pressure</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
+</resources>
